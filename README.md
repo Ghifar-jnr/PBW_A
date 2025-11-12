@@ -2,7 +2,7 @@
 <br>
 <strong>NPM : 4523210051</strong>
 <br>
-<h1>Praktikum PBW A</h1>
+<h1>PBW A</h1>
 
 # 📰 Aplikasi Berita (News App)
 
